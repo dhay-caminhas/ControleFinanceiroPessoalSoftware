@@ -24,3 +24,4 @@ O **Controle Financeiro Pessoal** é uma aplicação desktop desenvolvida para a
 5. **Planejamento Financeiro:** Ferramenta para gerenciar a distribuição do orçamento (necessidades, desejos e poupança).
 6. **Controle de Metas:** Acompanhamento de objetivos financeiros (ex: viagem, reserva de emergência, troca de carro) com valores alvo e atuais.
 7. **Relatórios Completos:** Tela unificada de consulta com o histórico detalhado de todas as movimentações e resumo financeiro geral.
+# ControleFinanceiroPessoalSoftware
